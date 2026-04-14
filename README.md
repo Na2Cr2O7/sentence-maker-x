@@ -1,8 +1,12 @@
-# sentence_maker_x
+# 造句助手
+
+<img src="screen.png" width="200" height="200">
 
 ## 项目简介
 
-sentence_maker_x 是一个基于古诗文数据库和词性匹配的造句助手，帮助用户生成符合语法规则的句子。
+![alt text](image.png)
+
+一个基于古诗文数据库和词性匹配的造句助手，帮助用户生成符合语法规则的句子。
 
 ## 技术栈
 
